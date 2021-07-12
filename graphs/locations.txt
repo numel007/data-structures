@@ -1,0 +1,11 @@
+Dawnstar, Falkreath
+Dawnstar, Markarth
+Markarth, Morthal
+Morthal, Dawnstar
+Riften, Solitude
+Solitude, Morthal
+Solitude, Markarth
+Solitude, Dawnstar
+Solitude, Falkreath
+Falkreath, Whiterun
+Whiterun, Windhelm
